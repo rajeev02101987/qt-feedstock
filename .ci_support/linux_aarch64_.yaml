@@ -75,6 +75,8 @@ pin_run_as_build:
     max_pin: x
   zlib:
     max_pin: x.x
+  alsa:
+    max_pin: x
 readline:
 - '8.0'
 sqlite:
