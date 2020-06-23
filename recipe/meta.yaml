@@ -94,6 +94,7 @@ requirements:
     - {{ cdt('mesa-dri-drivers') }}      # [linux]
     - {{ cdt('libxau-devel') }}          # [linux]
     - {{ cdt('alsa-lib-devel') }}        # [linux]
+    - {{ cdt('shobhit-lib-devel') }}     # [linux]
     - {{ cdt('gtk2-devel') }}            # [linux]
     - {{ cdt('gtkmm24-devel') }}         # [linux]
     - {{ cdt('libdrm-devel') }}          # [linux]
