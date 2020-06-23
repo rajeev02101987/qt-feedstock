@@ -20,6 +20,10 @@ dbus:
 - '1'
 docker_image:
 - condaforge/linux-anvil-aarch64
+rajeev:
+- '2.2'
+alsa:
+- '2.2'
 expat:
 - '2.2'
 fontconfig:
